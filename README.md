@@ -1,2 +1,2 @@
-# react-starter
-React Starter for starting project 
+# reactja
+React booking-app ui
