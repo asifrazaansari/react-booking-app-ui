@@ -1,2 +1,2 @@
-# reactja
+# reactjs
 React booking-app ui
